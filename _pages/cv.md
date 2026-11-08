@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Electrical and Computer Engineering**, University of California, Irvine (Sept 2021 – Mar 2023)
+* **B.S. in Computing**, Macao Polytechnic Institute (Sept 2017 – Jun 2021)
+  * *Honors & Awards:* First Prize & Most Practical Value Award (IT Project Competition), Macao Foundation Scholarship
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Amazon Web Services (AWS) — Network Core** | Santa Clara, CA
+  * **Software Development Engineer II** (Sept 2025 – Present)
+  * **Software Development Engineer I** (Apr 2023 – Sept 2025)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Amazon Web Services (AWS) — Network Scalable** | Seattle, WA
+  * **Software Development Engineer Intern** (Jun 2022 – Sept 2022)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages:** Rust, Python, Java, C++, JavaScript, SQL, HTML & CSS
+* **Networking & Distributed Systems:** Distributed Systems, Software-Defined Networking (SDN), Routing Protocols, TCP/IP, RPC, Link Health Monitoring
+* **Frameworks & Libraries:** Tokio.rs, Django, Spring (Boot & Cloud), React.js
+* **Cloud & DevOps:** AWS (Lambda, DynamoDB, S3, IAM, Cognito, API Gateway), Docker, Kubernetes, Linux, Git, MongoDB
 
 Publications
 ======
@@ -47,18 +37,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
